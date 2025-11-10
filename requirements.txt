@@ -1,0 +1,10 @@
+streamlit
+
+openai==1.14.3
+googletrans==4.0.0-rc1
+SpeechRecognition
+pyaudio
+gtts
+requests
+numpy
+pandas
