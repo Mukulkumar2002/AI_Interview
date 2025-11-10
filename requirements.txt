@@ -1,9 +1,7 @@
 streamlit
-
 openai==1.14.3
-googletrans==4.0.0-rc1
+googletrans==4.0.2
 SpeechRecognition
-pyaudio
 gtts
 requests
 numpy
